@@ -10,12 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var placeTxtFld:UITextField!
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
         let weather = WeatherGetter()
-        weather.getWeather("Chirala")
+        weather.getWeather("Chirala") //place
     }
 
     override func didReceiveMemoryWarning() {
