@@ -15,38 +15,53 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "72"
             endingLineNumber = "72"
-            landmarkName = "getWeather(_:)"
-            landmarkType = "7">
+            landmarkName = "WeatherGetter"
+            landmarkType = "3">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "WeatherApp.WeatherGetter.getWeather (Swift.String) -&gt; ()"
+                  symbolName = "WeatherApp.WeatherGetter.url.getter : Swift.Optional&lt;Foundation.URL&gt;"
                   moduleName = "WeatherApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/janardhan/Desktop/iLink%20Tasks/WeatherApp/WeatherApp/WeatherGetter.swift"
-                  timestampString = "541058645.600274"
+                  timestampString = "541070580.388523"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "72"
-                  endingLineNumber = "72"
-                  offsetFromSymbolStart = "803">
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "25">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "WeatherApp.WeatherGetter.(getWeather (Swift.String) -&gt; ()).(closure #1)"
+                  symbolName = "WeatherApp.WeatherGetter.url.setter : Swift.Optional&lt;Foundation.URL&gt;"
                   moduleName = "WeatherApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/janardhan/Desktop/iLink%20Tasks/WeatherApp/WeatherApp/WeatherGetter.swift"
-                  timestampString = "541058645.603313"
+                  timestampString = "541070580.39187"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "72"
-                  endingLineNumber = "72"
-                  offsetFromSymbolStart = "21905">
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.WeatherGetter.init () -&gt; WeatherApp.WeatherGetter"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janardhan/Desktop/iLink%20Tasks/WeatherApp/WeatherApp/WeatherGetter.swift"
+                  timestampString = "541070580.394362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "16">
                </Location>
             </Locations>
          </BreakpointContent>
