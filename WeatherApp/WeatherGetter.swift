@@ -9,7 +9,7 @@
 import Foundation
 
 class WeatherGetter {
-    
+    //weather getter
     fileprivate let openWeatherMapBaseURL = "http://api.openweathermap.org/data/2.5/weather"
     fileprivate let openWeatherMapAPIKey = "534426267d3ae8ba9be00ba92eb2684a"
     
